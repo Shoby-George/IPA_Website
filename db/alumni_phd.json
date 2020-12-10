@@ -1,0 +1,79 @@
+[
+  {
+    "no": 1,
+    "name": "Babu C A",
+    "topic": "Peak Load Management for Industries",
+    "guide": "Dr. Ashok S",
+    "year": 2008
+  },
+  {
+    "no": 2,
+    "name": "Reji P",
+    "topic": "Optimum Pricing in Deregulated Electric Power Systems",
+    "guide": "Dr. Ashok S, Dr. K M Moideenkutty",
+    "year": 2008
+  },
+  {
+    "no": 3,
+    "name": "Sudha Balagopal",
+    "topic": "Socially Stable Least Loss Coordinated Multilateral Trade Mechanism for Electricity",
+    "guide": "Dr. Ashok S, Dr. K P Mohandas",
+    "year": 2009
+  },
+  {
+    "no": 4,
+    "name": "Jaimol Thomas",
+    "topic": "Optimal Electricity Pricing Strategy for Distributed Generation",
+    "guide": "Dr. Ashok S, Dr. T L Jose",
+    "year": 2010
+  },
+  {
+    "no": 5,
+    "name": "Balamurugan P",
+    "topic": "Optimal Integration of Hybrid Energy System",
+    "guide": "Dr. Ashok S, Dr. T L Jose",
+    "year": 2011
+  },
+  {
+    "no": 6,
+    "name": "Kumaravel S",
+    "topic": "Optimal Power Management Strategy for Hybrid Energy System",
+    "guide": "Dr. Ashok S",
+    "year": 2013
+  },
+  {
+    "no": 7,
+    "name": "Rajeev T",
+    "topic": "Multi Agent based Optimal Power Management Strategy for Distributed Generation",
+    "guide": "Dr. Ashok S",
+    "year": 2014
+  },
+  {
+    "no": 8,
+    "name": "Vasanthi V",
+    "topic": "Analysis and Performance Improvement of AC-DC Locomotive Drives",
+    "guide": "Dr. Ashok S",
+    "year": 2015
+  },
+  {
+    "no": 9,
+    "name": "Ajay Babu",
+    "topic": "Development of Enegy Management Strategies for Hybrid Electric Vehicles",
+    "guide": "Dr. Ashok S",
+    "year": 2016
+  },
+  {
+    "no": 10,
+    "name": "Sivaprasad",
+    "topic": "Development of Multi Input DC-DC Converter Topologies for Hybrid Renewable Energy Integration",
+    "guide": "Dr. Kumaravel S, Dr. Ashok S",
+    "year": 2018
+  },
+  {
+    "no": 11,
+    "name": "Abhilash T Vijayan",
+    "topic": "A Supervisory Approach in Visual Servoing for a 6-DOF Industrial Robot",
+    "guide": "Dr. Ashok S",
+    "year": 2019
+  }
+]

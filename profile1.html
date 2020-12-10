@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="keywords" content="Industrial Power And Automation ( IPA ), previously known as Computer Controlled Industrial Power ( CCIP )" />
+    <meta name="description" content="Upon considering future demand Department of Electrical Engineering at National Institute of Technology, Calicut has started a Master's course on Industrial Power And Automation ( IPA )" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+	
+	<!-- Font Awesome CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.3.1.slim.min.js"></script>
+	<script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom JS -->
+	<script type="text/javascript">
+		$(function(){
+		  $("#header").load("header.html");
+            var roll = window.location.search.substr(1);
+            $.getJSON('db/pg_2021/'+roll+'.json', function(data) {
+                $("#name").html(data.name);
+                $("#roll").html(data.roll);
+                $("#area").html(data.area);
+                $("#college").html(data.college);
+                $("#project").html(data.project);
+                $("#email").html(data.email);
+                $("#pro_pic").attr("src", "db/pg_2021/photos/"+roll+".jpg");
+			});
+		});
+	</script>
+    <script type="text/javascript" src="js/script.js"></script>
+    
+    <title>Student Profile</title>
+  </head>
+  <body>
+	<div id="header"></div>
+	<div id="content">
+		<div class="container p-5">
+			<div class="h4 text-center font-weight-bold">STUDENT PROFILE</div>
+            <div class="row">
+                <div class="col-md-3 order-sm-2 text-center py-2">
+                    <img id="pro_pic" src="" class="img-fluid" alt="Profile Pic" style="max-height:200px;">
+                </div>
+                <div class="col-md-9 order-sm-1">
+                    <table class="table table-borderless">
+                        <tbody>
+                            <tr>
+                                <td>Name</td>
+                                <td>:</td>
+                                <td id="name"></td>
+                            </tr>
+                            <tr>
+                                <td>Roll No.</td>
+                                <td>:</td>
+                                <td id="roll"></td>
+                            </tr>
+                            <tr>
+                                <td>Area(s) of Interest</td>
+                                <td>:</td>
+                                <td id="area"></td>
+                            </tr>
+                            <tr>
+                                <td>B.Tech. College</td>
+                                <td>:</td>
+                                <td id="college"></td>
+                            </tr>
+                            <tr>
+                                <td>B.Tech. Project(s)</td>
+                                <td>:</td>
+                                <td id="project"></td>
+                            </tr>
+                            <tr>
+                                <td>Email</td>
+                                <td>:</td>
+                                <td id="email"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+		</div>
+	</div>
+  </body>
+</html>

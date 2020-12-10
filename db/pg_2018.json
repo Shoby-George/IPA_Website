@@ -1,0 +1,20 @@
+[
+  {
+    "no": 1,
+    "name": "Jithin Mohan",
+    "job": "R&D Engineer",
+    "contact": "mailtojithinm@gmail.com"
+  },
+  {
+    "no": 2,
+    "name": "Maleeha Femin",
+    "job": "Software Engineer",
+    "contact": "maleehapn@gmail.com"
+  },
+  {
+    "no": 3,
+    "name": "Namita Elizabeth Varghese",
+    "job": "Associate Project Engineer",
+    "contact": "namitaeli@gmail.com"
+  }
+]

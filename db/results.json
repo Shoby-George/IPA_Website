@@ -1,0 +1,98 @@
+[
+  {
+    "year": "2006-2008",
+    "passed": 19,
+    "distinction": 18,
+    "first": 1,
+    "second": 0,
+    "failed": 0
+  },
+  {
+    "year": "2007-2009",
+    "passed": 19,
+    "distinction": 18,
+    "first": 1,
+    "second": 0,
+    "failed": 0
+  },
+  {
+    "year": "2008-2010",
+    "passed": 20,
+    "distinction": 17,
+    "first": 2,
+    "second": 0,
+    "failed": 1
+  },
+  {
+    "year": "2009-2011",
+    "passed": 20,
+    "distinction": 16,
+    "first": 4,
+    "second": 0,
+    "failed": 0
+  },
+  {
+    "year": "2010-2012",
+    "passed": 22,
+    "distinction": 17,
+    "first": 5,
+    "second": 0,
+    "failed": 0
+  },
+  {
+    "year": "2011-2013",
+    "passed": 20,
+    "distinction": 16,
+    "first": 4,
+    "second": 0,
+    "failed": 0
+  },
+  {
+    "year": "2012-2014",
+    "passed": 23,
+    "distinction": 15,
+    "first": 8,
+    "second": 0,
+    "failed": 0
+  },
+  {
+    "year": "2013-2015",
+    "passed": 18,
+    "distinction": 8,
+    "first": 9,
+    "second": 0,
+    "failed": 1
+  },
+  {
+    "year": "2014-2016",
+    "passed": 20,
+    "distinction": 9,
+    "first": 11,
+    "second": 0,
+    "failed": 0
+  },
+  {
+    "year": "2015-2017",
+    "passed": 17,
+    "distinction": 6,
+    "first": 9,
+    "second": 2,
+    "failed": 2
+  },
+  {
+    "year": "2016-2018",
+    "passed": 18,
+    "distinction": 11,
+    "first": 5,
+    "second": 2,
+    "failed": 2
+  },
+  {
+    "year": "2017-2019",
+    "passed": 18,
+    "distinction": 9,
+    "first": 8,
+    "second": 1,
+    "failed": 0
+  }
+]

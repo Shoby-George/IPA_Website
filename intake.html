@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="keywords" content="Industrial Power And Automation ( IPA ), previously known as Computer Controlled Industrial Power ( CCIP )" />
+        <meta name="description" content="Upon considering future demand Department of Electrical Engineering at National Institute of Technology, Calicut has started a Master's course on Industrial Power And Automation ( IPA )" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+        <!-- Favicon -->
+        <link rel="icon" type="image/ico" href="favicon.ico">
+
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+
+        <!-- Font Awesome CSS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="css/style.css">
+
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="js/jquery-3.3.1.slim.min.js"></script>
+        <script src="js/jquery-3.4.1.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+
+        <script src="js/chart.js"></script>
+
+        <!-- Custom JS -->
+        <script type="text/javascript">
+            $(function(){
+                $("#content").hide();
+                $("#header").load("header.html");
+                $("#menu").load("menu.html", function() {
+                    $("#mtech").addClass("active");
+                    $("#content").show();
+                });
+                $("#footer").load("footer.html");
+
+
+            });
+        </script>
+        <script type="text/javascript" src="js/script.js"></script>
+
+        <title>IPA Student Intake Analysis</title>
+    </head>
+    <body>
+        <div id="header"></div>
+        <nav id="menu" class="navbar navbar-expand-sm navbar-dark sticky-top" style="background-color: #780000;"></nav>
+        <div id="content">
+            <div class="container">
+                <canvas id="intake_chart"></canvas>
+            </div>
+            <script>
+                var myChart = document.getElementById('intake_chart').getContext('2d');
+                var intakeData = {
+                    labels : ["2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019"],
+                    datasets : [
+                        {
+                            data: [712, 654, 714, 692, 730, 730, 654, 637, 676, 692, 679, 604, 687, 605],
+                            backgroundColor: '#004D40',
+                            label: 'Highest GATE Score',
+                        },
+                        { 
+                            data: [508, 541, 574, 621, 500, 505, 587, 564, 643, 558, 570, 563, 503, 513],
+                            backgroundColor: '#800000',
+                            label: 'GEN Minimum GATE Score',
+                        },
+                        { 
+                            data: [484, 423, 457, 501, 457, 484, 539, 534, 588, 444, 487, 390, 463, 492],
+                            backgroundColor: '#c42727',
+                            label: 'OBC Minimum GATE Score',
+                        },
+                        { 
+                            data: [368, 354, 394, 368, 358, 399, 396, 357, 417, 305, 341, 269, 290, 291],
+                            backgroundColor: '#808080',
+                            label: 'SC Minimum GATE Score',
+                        }
+                    ]
+                };
+                var intakeChart = new Chart(myChart, {
+                    type: 'bar',
+                    data: intakeData,
+                    options: {
+                        title: {
+                            display: true,
+                            text: 'Student Intake Analysis',
+                            fontSize: 18
+                        },
+                        scales: {
+                            xAxes: [
+                                {
+                                    scaleLabel: {
+                                        display: true,
+                                        labelString: 'Year'
+                                    }
+                                }
+                            ],
+                            yAxes: [
+                                {
+                                    scaleLabel: {
+                                        display: true,
+                                        labelString: 'GATE Score'
+                                    }
+                                }
+                            ]}   
+                    }
+                });
+            </script>
+        </div>
+        <div id="footer"></div>
+    </body>
+</html>

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="keywords" content="Industrial Power And Automation ( IPA ), previously known as Computer Controlled Industrial Power ( CCIP )" />
+    <meta name="description" content="Upon considering future demand Department of Electrical Engineering at National Institute of Technology, Calicut has started a Master's course on Industrial Power And Automation ( IPA )" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/baguetteBox.min.css" />
+    <link rel="stylesheet" href="css/compact-gallery.css">
+    <link rel="stylesheet" href="css/style.css">
+	
+	<!-- Font Awesome CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+
+    <script src="js/jquery-3.3.1.slim.min.js"></script>
+	<script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom JS -->
+	<script type="text/javascript">
+		$(function(){
+		  $("#content").hide();
+		  $("#header").load("header.html");
+		  $("#menu").load("menu.html", function() {
+				$("#gallery").addClass("active");
+				$("#content").show();
+			});
+		  $("#footer").load("footer.html");
+            var g_id = window.location.search.substr(1);
+            $.getJSON("db/gallery/"+g_id+".json", function(data) {
+                document.title = data.short_title;
+                $("#title").text(data.title);
+                $("#date").text(data.date);
+                images = data.images;
+                for (var i = 0; i < images.length; i++) {
+                    $("#contents").append($(
+                        
+                    "<div class=\"col-md-6 col-lg-4 item zoom-on-hover\"> \
+                        <a class=\"lightbox\" href=\""+images[i].link+"\"> \
+                            <img class=\"img-fluid image\" src=\""+images[i].link+"\"> \
+                            <span class=\"description\"> \
+                                <span class=\"description-body\">"+images[i].description+"</span> \
+                            </span> \
+                        </a> \
+                    </div>"
+                    
+                    ));
+                }
+                
+                $.getScript("js/baguetteBox.min.js", function() {
+                  baguetteBox.run('.compact-gallery', { animation: 'slideIn', captions: function(element) {
+                    return element.getElementsByClassName('description-body')[0].innerHTML;
+                  } });
+                });
+            });
+            
+		});
+	</script>
+    <script type="text/javascript" src="js/script.js"></script>
+    
+    <title>Gallery FDP (2016)</title>
+  </head>
+  <body>
+	<div id="header"></div>
+	<nav id="menu" class="navbar navbar-expand-sm navbar-dark sticky-top" style="background-color: #780000;"></nav>
+	<div id="content">
+		<section class="gallery-block compact-gallery">
+        <div class="container">
+            <div class="heading">
+                <h2 id="title">Programme Title</h2>
+				<h5 id="date">Programme Date</h5>
+            </div>
+            <div id="contents" class="row no-gutters">
+                
+            </div>
+        </div>
+    </section>
+	</div>
+    <div id="footer"></div>
+  </body>
+</html>

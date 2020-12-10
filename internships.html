@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="keywords" content="Industrial Power And Automation ( IPA ), previously known as Computer Controlled Industrial Power ( CCIP )" />
+    <meta name="description" content="Upon considering future demand Department of Electrical Engineering at National Institute of Technology, Calicut has started a Master's course on Industrial Power And Automation ( IPA )" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+	
+	<!-- Font Awesome CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.3.1.slim.min.js"></script>
+	<script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom JS -->
+	<script type="text/javascript">
+		$(function(){
+            $("#content").hide();
+            $("#header").load("header.html");
+            $("#menu").load("menu.html", function() {
+                $("#industry").addClass("active");
+                $("#content").show();
+            });
+            $("#footer").load("footer.html");
+            $.getJSON('db/interships.json', function(data) {
+				for (var i = 0; i < data.length; i++) {
+					var row = $("<tr />")
+					$("#data").append(row);
+					row.append($("<td>" + data[i].no + "</td>"));
+					row.append($("<td>" + data[i].name + "</td>"));
+					row.append($("<td>" + data[i].company+ "</td>"));
+                    row.append($("<td>" + data[i].year + "</td>"));
+				}
+			});
+		});
+	</script>
+    <script type="text/javascript" src="js/script.js"></script>
+    
+    <title>IPA Internships</title>
+  </head>
+  <body>
+	<div id="header"></div>
+	<nav id="menu" class="navbar navbar-expand-sm navbar-dark sticky-top" style="background-color: #780000;"></nav>
+	<div id="content">
+		<div class="container p-5">
+			<h5>Student Internships</h5>
+            <p class="text-justify">Industrial Power Group is closely associated with industries like ABB, BOSCH, Crompton Greaves,FACT, General Motors Technical Center India, National Aerospace Laboratories, YOKOGAWA, Schneider Electric India Pvt Ltd, Entuple, KALKI COMMUNICATION TECHNOLOGIES</p>
+            <p class="text-justify">Many students have been selected for one year internship with sponsorship. On satisfactory performance they are absorbed in the company. Some of the students who are part of the internship program are as follows.</p>
+            <table class="table">
+                <thead>
+                  <tr>
+                    <th>Sl. No.</th>
+                    <th>Name</th>
+                    <th>Company</th>
+                    <th>Year</th>
+                  </tr>
+                </thead>
+				<tbody id="data">
+				</tbody>
+			</table>
+		</div>
+	</div>
+    <div id="footer"></div>
+  </body>
+</html>

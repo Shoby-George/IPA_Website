@@ -1,0 +1,227 @@
+G. G. Kumar, V. S. Rao and S. Kumaravel, "Bidirectional Switched Active LC network based Dual input Non-isolated DC-DC converter," 2020 IEEE International Conference on Power Electronics, Smart Grid and Renewable Energy (PESGRE2020), Cochin, India, 2020, pp. 1-6, doi: 10.1109/PESGRE45664.2020.9070584.
+
+S. C, A. A N, A. T. Mathew and S. A P, "Trajectory Tracking of Omni Directional robot using Fuzzy Controller with Visual Feedback," 2020 International Conference for Emerging Technology (INCET), Belgaum, India, 2020, pp. 1-6, doi: 10.1109/INCET49848.2020.9154098.
+
+P. T., M. V. Sai Krishna and K. S., "A Novel Dual-Input High Gain DC-DC Converter for Hybrid Energy Sources Integration," 2020 International Conference for Emerging Technology (INCET), Belgaum, India, 2020, pp. 1-7, doi: 10.1109/INCET49848.2020.9153988.
+
+R. S. Abhi Krishna and A. S, "Automated Land Area Estimation for Surveying Applications," 2020 International Conference for Emerging Technology (INCET), Belgaum, India, 2020, pp. 1-5, doi: 10.1109/INCET49848.2020.9154042.
+
+R. Abraham and A. S, "Data-Driven Optimization of Torque Distribution Function for Torque Ripple Minimization of Switched Reluctance Motor," 2020 International Conference for Emerging Technology (INCET), Belgaum, India, 2020, pp. 1-6, doi: 10.1109/INCET49848.2020.9154044.
+
+V. Karthikeyan, S. Kumaravel and G. Gurukumar, "High Step-Up Gain DC–DC Converter With Switched Capacitor and Regenerative Boost Configuration for Solar PV Applications," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 66, no. 12, pp. 2022-2026, Dec. 2019, doi: 10.1109/TCSII.2019.2892144.
+
+V. Thomas, S. Kumaravel and S. Ashok, "Reduction of Frequency Oscillations in Solar PV Microgrid using Virtual Synchronous Machine," 2019 International Conference on Power Electronics Applications and Technology in Present Energy Scenario (PETPES), Mangalore, India, 2019, pp. 1-5, doi: 10.1109/PETPES47060.2019.9003783.
+
+A. N. Ravishankar, S. Kumaravel and S. Ashok, "Bidirectional Dual Input Single Output DC-DC Converter for Electric Vehicle Charger Application," 2019 IEEE 8th Global Conference on Consumer Electronics (GCCE), Osaka, Japan, 2019, pp. 85-86, doi: 10.1109/GCCE46687.2019.9015400.
+
+K. H. A. Sahid, V. Thomas, S. Kumaravel and S. Ashok, "Performance Comparison of Root-finding Algorithms for Solar Photovoltaic Emulator," 2019 International Conference on Power Electronics Applications and Technology in Present Energy Scenario (PETPES), Mangalore, India, 2019, pp. 1-5, doi: 10.1109/PETPES47060.2019.9003843.
+
+A. R. Brahma, S. Kumaravel, V. Thomas and S. Ashok, "Impact of System Parameters on the Performance of Synchronverter," 2019 IEEE Region 10 Symposium (TENSYMP), Kolkata, India, 2019, pp. 120-125, doi: 10.1109/TENSYMP46218.2019.8971384.
+
+H. G., K. S. and A. S, "Xilinx System Generator-based Rapid Prototyping of Solid-State Transformer for On-Grid Renewable Energy Integration," in IEEE Journal of Emerging and Selected Topics in Power Electronics, doi: 10.1109/JESTPE.2019.2963277.
+
+M. A. Jahfar Sadhique, S. Ashok, J. Sandeen and S. Deepthi, "Position Sensorless Control for BLDC Motor for Powertrain Applications," 2019 2nd International Conference on Intelligent Computing, Instrumentation and Control Technologies (ICICICT), Kannur, Kerala, India, 2019, pp. 322-327, doi: 10.1109/ICICICT46008.2019.8993184.
+
+A. C. Babu, A. S and S. J, "FPGA based speed controller for 8/6 switched reluctance motor using hysteresis controller," 2019 2nd International Conference on Intelligent Computing, Instrumentation and Control Technologies (ICICICT), Kannur, Kerala, India, 2019, pp. 962-966, doi: 10.1109/ICICICT46008.2019.8993261.
+
+S. C. Reddy, S. Muthukumari, T. K. S. Kumar, S. Kumaravel and S. Kanagalakshmi, "TLBO based Droop Optimization Technique for DC Microgrid," TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON), Kochi, India, 2019, pp. 2418-2423, doi: 10.1109/TENCON.2019.8929430.
+
+T. S. Bheemraj, B. Krishna, V. Karthikeyan and S. Kumaravel, "High Accurate Dual Loop Controller for Power Regulation in DAB DC-DC Converter for Solar PV Applications," 2019 International Conference on Computing, Power and Communication Technologies (GUCON), NCR New Delhi, India, 2019, pp. 355-359.
+
+R. N. Gore, N. Elizabeth, D. Dzung, and S. Ashok, "Towards Robust Synchronization in IoT Networks," 2019 11th International Conference on Communication Systems & Networks (COMSNETS), 2019.
+
+A. John, K. S. Krishnan, and S. Ashok, "Sensitivity of design parameters on SOC and fuel efficiency of HEV," 2017 International Conference on Computation of Power, Energy Information and Commuincation (ICCPEIC), 2017.
+
+K. K. Gokul, B. P. Emmanuel, S. Ashok, and S. Kumaravel, "Design and control of non-isolated bidirectional DC-DC converter for energy storage application," 2017 2nd IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology (RTEICT), 2017.
+
+A. Mohemmed, R. Mickey, A. Akhila, and S. Ashok, "Open source implementation of IEEE C37.118-2011 protocol and serial communication interface for an FPGA based phasor measurement unit," 2017 2nd IEEE International Conference on Recent Trends in Electronics, Information & Communication Technology (RTEICT), 2017.
+
+A. L. Akhila, R. Micky, A. Mohemmed, E. P. Cheriyan, and S. Ashok, "Implementation of an algorithm for phasor estimation and system parameters for an FPGA based PMU," 2017 IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (SPICES), 2017.
+
+A. Ingalalli, K. S. Silpa, and R. Gore, "SCD based IEC 61850 traffic estimation for substation automation networks," 2017 22nd IEEE International Conference on Emerging Technologies and Factory Automation (ETFA), 2017.
+
+C. S. Gajbhiye, M. G. Krishnan, S. Kumaravel, and S. Ashok, "Fuzzy - Arduino based control strategy for human safety in industrial robots," 2017 IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (SPICES), 2017.
+
+S. A., G. G. Kumar, K. S., and A. S., "A novel bridge type DC-DC converter for hybrid energy source integration," 2016 IEEE 1st International Conference on Power Electronics, Intelligent Control and Energy Systems (ICPEICES), 2016.
+
+Vasanthi V, Ashok S, "High-performance bi-directional Z source inverter for locomotive drive application", IET Electrical Systems in Transportation, DOI:10.1049/ietest.2014.0053, April 2015.
+
+Rajeev T and Ashok S., "Dynamic Load-Shifting Program based on a cloud computing framework to support the integration of Renewable energy sources", Applied Energy, pp. 141-149, February 2015.
+
+Ajay Babu and Ashok S., "Improved parallel mild hybrids for urban roads", Applied Energy, vol 144, no.4, pp. 276-283, 2015.
+
+Subhadeep Paladhi and Ashok S, "Power Quality Improvement of Wind Based DG Systems Using Solid State Transformer", International Journal of Scientific and Engineering Research, Vol-6, Issue-4, pp. 46-52, April 2015.
+
+Sujo P. George and Ashok S., "Coordination Issues in Over Current Relays due to Wind Farm Penetration", International Journal of Scientific & Engineering Research, Volume 6, Issue 5,pp. 325-329, May-2015
+
+Rohit K Mathew, Ashok S. and Kumaravel S., "Analytical Modeling for Assessing the Impact of DG on Distribution system Reliability", International Journal of Scientific & Engineering Research, Volume 6, Issue 5, pp. 507-512, May-2015.
+
+Sivaprasad A., Kumaravel S. and Ashok S., "Design and Analysis of a Dual Input BuckBoost Converter for Renewable Energy Application", International Journal of Scientific & Engineering Research, Volume 6, Issue 5, pp. 330-334, May-2015.
+
+P.Raji, S.Ashok "Development of GSM and GPS based Cost Effective Telematics Module", International Journal of Advanced Research in Electrical, Electronics and Instrumentation Engineering", Vol. 4, Issue 5, May 2015.
+
+Rohit K. Mathew, Ashok S. and Kumaravel S, "Impact of Rooftop Solar PV based DG on Reliability of Distribution Systems" IEEE International Conference on Energy , Power and Environment (ICEPE 2015), NIT Meghalaya, June 12-13, 2015.
+
+Abhilash T. Vijayan and Ashok S., "A stable switched visual servoing with supervisory control", IEEE international Conference ICIC 2015, COEP Pune, June 2015.
+
+Rohit K. Mathew, Ashok S. and Kumaravel S. , "Analyzing the effect of DG on Reliability of Distribution Systems", IEEE International Conference on Electrical, Computer and Communication Technologies, Coimbatore, 05-07 March 2015.
+
+Sreeram R. Kurup and Ashok S., "Performance of Hydro Power Plants during black start and Islanded operation", IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems, NIT Calicut, February 2015.
+
+Subhadeep Paladhi and Ashok S., "Solid state Transformer Application in wind based DG system" IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems, NIT Calicut, February 2015.
+
+Neethu George and Ashok S., "An overview of Smart Grid technology in Indian Power Sector", IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems, NIT Calicut, February 2015.
+
+Sivaprasad A, Jijo Joseph, Kumaravel S., and Ashok S., "Design and analysis of a dual input DC-DC converter for Hybrid Electric Vehicle", IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems, NIT Calicut, February 2015.
+
+Ajay Babu and Ashok S., "Suitability of T-source inverter based vector controlled drive for Parallel Mild Hybrids", IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems, NIT Calicut, February 2015.
+
+Rohikaa Mickey, Sujith KK, Vipin V, Radhuna Ramachandran, Aruna Eranhikkal, Joseph Abraham and Ashok S., "Analysis of Internal Unbalancing Current in Distribution Transformer", IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems, NIT Calicut, February 2015.
+
+Rajana Sravanakumar, Sivaprasad A, Kumaravel S and Ashok S, "Development of Dual Input-Single Output High Frequency Transformer Coupled DC-DC Converter for Renewable Energy Integration",ICE/IEEE International Technology Management Conference, June 2015, Belfast, Northern Ireland.
+
+Sivaprasad A, Kumaravel S, Ashok S, "Comparison of Two Dual Input DC-DC Converter Topologies for Renewable Energy Integration", International conference on electrical, electronics and computer engineering - iceece '15, Vivekanandha College of Engineering for Women, Thiruchengode, Tamilnadu.
+
+Mithun Raj KK and Ashok S., "Design and Simulation of a Vertical Axis Wind Turbine for Highway Wind Power Generation", International Conference on Recent Trends In Engineering Science And Management (ICRTESM-15), Volume 07,Issue 01, pp. 251-259, March 2015, JNU Delhi.
+
+Nalla Vikram and Ashok S, "Vehicle Detection Methods for Intelligent Road Stud Applications", International Conference on Emerging Trends in Technology, Science and Upcoming Research in Computer Science(ICDAVIM-2015).
+
+Sanjoy Paik, M.P.Nandakumar and S.Ashok,"Model Development and Adaptive Control Implementation of a 3-Axis Platform stabilization System", International Conference on Smart Technologies and Management for Computing, Communication, Controls, Energy and Materials (ICSTM), pp.597-602, 6-8 May 2015.
+
+Ashwin D, Manglesh Dixit, Vinila Chavan, Ashok S, "Design optimization of 15 kW, 2-pole induction motor to achieve IE4 efficiency level with copper die-casting", IEEE International Conference on Technological Advancements in Power and Energy (IEEE TAP Energy 2015) by IEEE Kerala Section and Amrita Vishwa Vidyapeetham, Kollam.(Accepted).
+
+O.D. Naidu, Neethu George, S. Ashok , "An Accurate Impedance Based Fault Location Method for Radial Distribution Systems" IEEE International Conference on Technological Advancements in Power and Energy (IEEE TAP Energy 2015) by IEEE Kerala Section and Amrita Vishwa Vidyapeetham, Kollam.
+
+Anitha Varghese, Hariram Satheesh, Simi Valsan, Greeshma Sekharan, "Performance Analysis of ZigBee for Energy Transmission Monitoring in Smart Grids", in CoCoNet 2015, Trivandrum.
+
+Sujo P George, Kush Khanna, Ashok S. and M N Bandyopadhyay "Power system protection issues due to wind generation farms" International Journal of Innovative Research in Science Engineering and Technology,Vol. 3, Issue 4, April 2014, pp 11361-11367.
+
+Aakrati Agarwal, Sudheer A P, Ashok S, "Ant Colony Based Path Planning for Swarm Robots", AIR July 02-04, Goa, India
+
+Shrikant Bhat, O.D. Naidu, Neethu George, S. Ashok, "An Overview of Smart grid in Indian Power Sector", 5th National Level Conference On Emerging Trends in Networking , Automation and Control Technologies, ENACT 2014 ,organized by International Society Of Automation and Department of Electronics and Control Engineering, Satyabhama University, December 5-7, 2014.
+
+Ajay Babu and Ashok S., "Comparison of T source inverter and voltage source inverter based drives for parallel hybrids", International Conference on Advances in Green Energy(ICAGE), pp-138-143, 17-18 December 2014.
+
+Sandeep Kumar Palo, A.P Sudheer, and S. Ashok."Vision Based Mobile Robotic Simultaneous Localization And Mapping" in 3rd IRF International Conference, May-2014, Goa, India, pp. 50-54. IRAJ, 2014.
+
+Atheena Charly, Ashok S., "Development of inbuilt energy management controller for smart meter", IEEE International Conference on Advanced Control, Communication and Computing Technologies, Ramanathapuram, May 2014
+
+Ashwin T, Ashok S., "Automation of rolling stock examination", IEEE International Conference on Advanced Control, Communication and Computing Technologies, Ramanathapuram, May 2014
+
+Vipil Vinod, Jayalakshmi Surendran, S Ashok, "Comparison of fundamental matrix calculation methods for rectification of stereo images", International Conference on Computer Science, Electronics and Communication Engineering ICCECE, 27th April 2014, Pune
+
+Vasanthi V. and Ashok S., "Performance of simple boost controlled Z-source inverter fed 3-phase locomotive in the motoring region", International journal of Electrical and Electronics Engineering research, Vol 3, Issue 5, 127-132, Dec 2013
+
+Rajeev T. and Ashok S., "Service Oriented Cloud Architecture for Improved Performance of Smart grid Applications", International Journal on Research in Engineering andTechnology, Vol. 2., No. 9, pp 1-7, 2013
+
+Rajeev T. and Ashok S., "Architecture for data coordination processing and real time services in smart grid", International Review on modeling and Simulations, Vol 6., No.6, 2013
+
+Vasanthi V. and Ashok S., "Analysis of Harmonics of Electric Traction System using Wavelet Transform", International Journal of Computer Applications (0975-8887), Vol. 71, No.24, June 2013.
+
+Das J, S. Ashok, "Industrial Power Wheeling and Optimum Power Interchange Under Availability Based Tariff", Third International Conference on Advances in Computing and Communications in Kakkanad, Kerala : p. 320 - 323, 2013.
+
+Vipin Krishna R, Megha G Krishnan and S. Ashok, "Synchronised phasor measurement unit", International conference on power, signals, control and computations, EPSCICON 2014
+
+Rajeev T and Ashok S., "Demand Management of Electric Vehicle Charging System based on Cloud Computing Framework", ITEC ASIA PACIFIC 2014, August 2014
+
+Vasanthi V. and Ashok S., "Investigations on regenerated energy during braking in electric traction system", ITEC ASIA PACIFIC 2014, August 2014.
+
+Ajay Babu and Ashok S., "Selection of Vehicle configuration: Based on weight and performance Constraints", ITEC ASIA PACIFIC 2014, August 2014.
+
+Radhika N. K., Ashok S., "Classification of static hand gestures using PCA", Proceedings of the IEEE International Conference on Intelligent Interactive Systems and Assistive Technologies, pg 36-39, August 2-3, 2013, Coimbatore
+
+Das J, Ashok S. "Optimum Operation of a cogeneration facility using Genetic Algorithm", International Multiconference on Automation, Computing, Control, Communication and Compressed Sensing, in Palai, Kerala.2013, Page(s): 184 - 189
+
+Vasanthi V., Ashok S. , "Performance investigation of constant boost controlled Z-source inverter fed locomotive drive" ,India Conference (INDICON), 2013 Annual IEEE , Dec. 2013
+
+Babu A. and Ashok S. , "A Novel Index for Batteries in Hybrid Electric Vehicles", IEEE Conference, In proceedings of International Conference 2014 Power and Energy Systems:Towards Sustainable Energy (PESTSE 2014), 13-15 March, 2014
+
+Sujo P George, S Ashok and M N Bandyopadhyay, "Impact of Distributed Generation on Protective Relays" IEEE Sponsored International Conference on Renewable Energy and Sustainable Energy, ICRESE 13, Coimbatore, Pages 380-385, December , 2013
+
+Thanusree Dalai and S. Ashok, " Development of cost-effective GPRS based telematics module", International Conference on emerging research in computing, information, communications & applications, ERCICA 2013
+
+S. Kumaravel, S. Ashok and P. Balamurugan, "Techno-Economic Feasibility Study of Biomass Based Hybrid Renewable Energy System for Microgrid Application", International Conference on Green Technologies-ICGT12, Trivandrum, Dec 18-20, 2012
+
+Vasanthi V., Ashok S. , "Performance Evaluation Of Z Source Inverter Fed Locomotive Drives With Different Control Topologies ",IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES 2012) -16-19 Dec 2012, Bangalore
+
+Babu, A.; Ashok, S., "Algorithm for selection of motor and vehicle architecture for a Plug-in Hybrid Electric Vehicle," India Conference (INDICON), 2012 Annual IEEE , pp.875-878, 7-9 Dec. 2012
+
+Rajeev T. and Ashok S, "A Smart grid environment with Effective Storage and Computational facilities. Lecture notes on Electrical engineering by SPRINGER, Vol. 188, pp1-7, May,2012
+
+Vasanthi V. and Ashok S., "Control of Harmonics in Electric Traction system", International Review of Automatic Control (IREACO),Vol.5, N.4, July 2012
+
+Rajeev T., Ashok S, "A Cloud Computing Approach for Power Management of Micro grids" in proceedings IEEE PES Innovative Smart grid Technologies India(ISGT- India) 2011
+
+Rajeev T., Ashok S, "Operational Flexibility in Smart grid through Cloud computing", in proceedings of International symposium on Cloud and Services Computing-2012
+
+Shiyas P.R., Kumaravel S. and Ashok S., "Fuzzy controlled dual input dc/dc converter for solar/wind hybrid energy system", Proc. of the IEEE Conference on Electrical, Electronics and Computer Science, Bhopal, India, March 2012
+
+Divya N.S., Kumaravel S. and Ashok S., "Grid connected photovoltaic system using 15-level cascaded H-bridge inverter" Proc. of the International Conference on Renewable Energy Utilisation, CIT, Coimbatore, India, January 2012
+
+Kumaravel S. and Ashok S., "Design and Analysis of Multiple Input Power Conditioner for SolarPV/Wind Hybrid Energy System", Proc. of the Annual International Technical Conference, TENCON 2011, Bali Indonesia, November 2011
+
+Kumaravel S. and Ashok S., "ANN Based Smart Controller for Solar-PV/Wind/Battery Hybrid Energy System", International Conference on Road Map for Smart Grid, organized by Central Power Research Institute (CPRI) Bangalore on 03-04, August 2011.
+
+Vineet Koshy Philip, Siby Jose, Ashok S, "Application of OPC Protocol in Islanded Micro Grid Automation" , Chennai and Dr.MGR University Second International Conference on Sustainable Energy and Intelligent System (SEISCON 2011) , Dr. M.G.R. University, Maduravoyal, Chennai, Tamil Nadu, India. July. 20-22, 2011.
+
+Sandeep Jayprakash, Ashok S., "Cost Optimal Design of Micro Hydel Systems." IET SEISCON'11, Dr. M.G.R. University, Maduravoyal, Chennai, Tamil Nadu, India. July. 20-22, 2011.
+
+Kumaravel S, Sriharibabu A., and Ashok S., "Robust Maximum Power Point Tracking Method for Photovoltaic Cells in MATLAB/Simulink GUI Environment using Neural Network". Proceedings of 5th International Conference on Advances in Mechanical Engineering (ICAME-2011) organized by National Institute of Technology Surat, Surat on June 6th - 8th 2011
+
+Kumaravel S. and Ashok S., "Residential-Scale Solar/Pico-Hydel/Wind Based Hybrid Energy System for Remote Area Electrification", international conference on Power Electronics and Instrumentation Engineering (PEIE 2010) Sep 07-09, 2010 in Kochi, Kerala, India
+
+Kumaravel S. and Ashok S., "Generation Unit Sizing and Cost Analysis of Solar/PicoHydel based Hybrid Energy Systems", 1st International Conference on Advances in Energy Conversion Technologies (ICAECT 2010)to be held at Manipal Institute of Technology, Manipal, Karnataka, Jan07 -10, 2010
+
+Prabhath K, Kumaravel S., Ashok S. and Jayaraj S., "Design and Unit Sizing of PV Powered Hybrid Thermoelectric Refrigerator", 1st International Conference on Advances in Energy Conversion Technologies (ICAECT 2010)to be held at Manipal Institute of Technology, Manipal, Karnataka, Jan07 -10, 2010
+
+MishigaV. , Seshadhri S., S. Ashok , S. Ramaswamy , R. Ayyagari "An Analytical Framework for Analysis and Design of Networked Control Systems with Random Delays and Packet Losses" Electrical and Computer Engineering (CCECE), 2012 25th IEEE Canadian Conference on, 2012
+
+Krishnan M.G.; Ashok, S., "Implementation of recursive DFT algorithm for phasor measurement unit (PMU)," Engineering Education: Innovative Practices and Future Trends (AICERA), 2012 IEEE International Conference on , vol., no., pp.1,5, 19-21 July 2012
+
+Abraham, A.P.; Ashok, S., "Gyro-accelerometric SAG analysis and online-monitoring of transmission lines using Line Recon Robot," India Conference (INDICON), 2012 Annual IEEE , vol., no., pp.1036,1040, 7-9 Dec. 2012
+
+Ashok S, "Integrated Protection of Transmission Line", 1st India Doble Protection and Automation Conference, 21-22 Nov 2008, Chennai, paper no.8
+
+Ashok S, "Effect of Harmonic Load on Capacitor Protection", 1st India Doble Protection and Automation Conference, 21-22 Nov 2008, Chennai, paper no.12.
+
+Babu CA, Ashok S, "Captive Power Wheeling for Peak Load Management" , Proceedings of International Conference on Energy Security & Climatic Changes , Aug 6-8, 2008, Sofitel Centara Grand,Bangkok,Thailand
+
+Sudha Balagopal, Ashok S. and KP Mohandas, "Socially Stable Multilateral Trades and Power Vectors for Coordination", Proceedings of International Conference on Power Electronic Drives & Power Systems, March 20-21, 2008, Sona college of technology, Salem, Tamil Nadu, paper No PSROT-14
+
+Thirumal Reddy N & Ashok S, "Performance of Capacitor Protection under Non-linear Loads", International Conference on Power System Analysis-2008, IEEE sponsored, Andhra University, 13-15 March 2008, pp 952-957.
+
+Sudha Balagopal, Ashok S, KP Mohandas, "Power Vector Coordinated Multilateral trades" International Conference on MS'07,Kolkota,India,December 3-5,2007, pp 547-551.
+
+Ashok S., P Balamurugan., "Biomass gasifier based Hybrid Energy System for Rural areas", paper no 64, IEEE Electrical Power Conference-2007, Montreal, Canada- Oct 25-26,2007
+
+Aravind Kumar, Ashok S., "Neural Network based transformer differential protection", International Conference on Power System Protection & Automation, 21-22 Nov 2007, New Delhi, by CIGRE-India & CBIP- paper I-140.
+
+Babu CA, Ashok S, "An optimization model for Peak Demand Management in Process Industries" , Proceedings of International Conference on Modeling & simulation , Aug 27-29, 2007, CIT, Coimbatore, pp 40-46
+
+Reji. P , S. Ashok,, K. M. Moideenkutty, "Electricity Pricing Model In Thermal Generating Stations Under Deregulation" , Proceedings of the Third IASTED Asian Conference on Power and energy Systems, April 2 - 4, 2007, Thailand, pp 446-451
+
+C.A.Babu ,Ashok S., "Optimal Load Scheduling for Peak Demand Management in Electrolytic Process Industries" , Int. Conference on Production & Industrial Engg, CPIE-2007, 22-24 March 2007 , NIT Jalandhar
+
+Ashok S, " Transformer Differential Protection-A new approach", International Conference on Power System Protection, CPRI Bangalore, 20-21 Feb 2007, pp 137-145
+
+Reji. P , S. Ashok,, K. M. Moideenkutty, "Pricing Strategy For Electricity In Thermal Generating Stations Under Deregulation" 6th International R & D Conference on Sustainable Development of Water and Energy Resources - Needs and Challenges - 13-16 February 2007, Lucknow, India, paper no. 4/Energy
+
+SP Singh, Ashok S, "Development of a Portable Hybrid Energy Simulation Model" International Conference on Fluid Mechanics and Power, IITB, 7-9 Dec 2006, paper no. 1901
+
+SP Singh, Ashok S, "Design & Development of a Portable Hybrid Energy System" International Congress on Computational Mechanics and Simulation, IITG, 8-10 Dec 2006, paper no. b057
+
+S Ashok, "Modeling of Integrated power Conditioner For Photovoltaic Systems", IEEE conference on Industrial Electronics and applications, NUS, Singapore, 24-26 May 2006, pp1098-1102
+
+P. Kumaraswamy ,S.Ashok, and S. Jayaraj, "Optimal Operation of Cogeneration System for a Typical Paper Industry", Proceedings of 3rd International Conference on Energy Research & Development, Kuwait University, 21-23 Nov 2005, pp329-339
+
+S. Ashok, S. Jayaraj A. Netaji Babu, "PV Module with Concentrating Mirror", Proceedings of 3rd International Conference on Energy Research & Development, Kuwait University, 21-23 Nov 2005,pp 493-502
+
+S P Singh and Ashok S., "Next Generation Organic Solar Cells", Paper no.7, National Conference on Photo Band Gap 2005 at IIT Kharagpur, Oct.2005.
+
+Ashok S., "Multifunction relay for HV transmission line", paper V-1, 5th International R & D conference on Development of Energy Resources, organized by CBIP,15-18 Feb 2005, Bangalore.
+
+Jaykrishnan R, Ashok S. "Hybrid Energy System-A case study", International Congress on Renewable Energy, ICORE-2005, Pune, 20-24 Jan 2005, pp336-346.
+
+Ashok S ,Sowjanya V, "CAN control scheme for MRI Scanner", International conference on Advanced Computing and Communications(ADCOM 2004) Ahmedabad, India, December 15-18 pp 305-309.
+
+Ashok S , Babitha and S.Thiruvengadom, "Harmonics in Distribution Systems of an Educational Institution", IEEE International Conference on Power Quality, held at Hyderabad, June 18-20,1998, pp 145-150.

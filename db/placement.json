@@ -1,0 +1,86 @@
+[
+  {
+    "no": 1,
+    "year": "2006-2008",
+    "on_campus": "55%",
+    "off_campus": "44%",
+    "higher_studies": 1
+  },
+  {
+    "no": 2,
+    "year": "2007-2009",
+    "on_campus": "45%",
+    "off_campus": "55%",
+    "higher_studies": 0
+  },
+  {
+    "no": 3,
+    "year": "2008-2010",
+    "on_campus": "40%",
+    "off_campus": "58%",
+    "higher_studies": 2
+  },
+  {
+    "no": 4,
+    "year": "2009-2011",
+    "on_campus": "33%",
+    "off_campus": "67%",
+    "higher_studies": 0
+  },
+  {
+    "no": 5,
+    "year": "2010-2012",
+    "on_campus": "54%",
+    "off_campus": "45%",
+    "higher_studies": 1
+  },
+  {
+    "no": 6,
+    "year": "2011-2013",
+    "on_campus": "30%",
+    "off_campus": "42%",
+    "higher_studies": 5
+  },
+  {
+    "no": 7,
+    "year": "2012-2014",
+    "on_campus": "20%",
+    "off_campus": "57%",
+    "higher_studies": 2
+  },
+  {
+    "no": 8,
+    "year": "2013-2015",
+    "on_campus": "40%",
+    "off_campus": "35%",
+    "higher_studies": 4
+  },
+  {
+    "no": 9,
+    "year": "2014-2016",
+    "on_campus": "40%",
+    "off_campus": "50%",
+    "higher_studies": 2
+  },
+  {
+    "no": 10,
+    "year": "2015-2017",
+    "on_campus": "",
+    "off_campus": "",
+    "higher_studies": 0
+  },
+  {
+    "no": 11,
+    "year": "2016-2018",
+    "on_campus": "",
+    "off_campus": "",
+    "higher_studies": 0
+  },
+  {
+    "no": 12,
+    "year": "2017-2019",
+    "on_campus": "47%",
+    "off_campus": "24%",
+    "higher_studies": 4
+  }
+]

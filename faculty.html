@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="keywords" content="Industrial Power And Automation ( IPA ), previously known as Computer Controlled Industrial Power ( CCIP )" />
+    <meta name="description" content="Upon considering future demand Department of Electrical Engineering at National Institute of Technology, Calicut has started a Master's course on Industrial Power And Automation ( IPA )" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+	
+	<!-- Font Awesome CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.3.1.slim.min.js"></script>
+	<script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom JS -->
+	<script type="text/javascript">
+		$(function(){
+		  $("#content").hide();
+		  $("#header").load("header.html");
+		  $("#menu").load("menu.html", function() {
+				$("#people").addClass("active");
+				$("#content").show();
+			});
+		  $("#footer").load("footer.html");
+		  $.getJSON('db/core_faculty.json', function(data) {
+				for (var i = 0; i < data.length; i++) {
+					var row = $("<tr />")
+					$("#core_faculty_data").append(row);
+					row.append($("<td><a target=\"_blank\" href=" + data[i].link + ">" + data[i].name + "</a></td>"));
+					row.append($("<td>" + data[i].designation + "</td>"));
+					row.append($("<td>" + data[i].details + "</td>"));
+				}
+			});
+		  $.getJSON('db/associate_faculty.json', function(data) {
+				for (var i = 0; i < data.length; i++) {
+					var row = $("<tr />")
+					$("#associate_faculty_data").append(row);
+					row.append($("<td><a target=\"_blank\" href=" + data[i].link + ">" + data[i].name + "</a></td>"));
+					row.append($("<td>" + data[i].designation + "</td>"));
+					row.append($("<td>" + data[i].details + "</td>"));
+				}
+			});
+		});
+	</script>
+    <script type="text/javascript" src="js/script.js"></script>
+    
+    <title>IPG Faculty</title>
+  </head>
+  <body>
+	<div id="header"></div>
+	<nav id="menu" class="navbar navbar-expand-sm navbar-dark sticky-top" style="background-color: #780000;"></nav>
+	<div id="content">
+		<div class="container p-5">
+			<h6>CORE FACULTIES</h6>
+			<table id="core" class="table">
+				<tbody id="core_faculty_data">
+				</body>
+			</table>
+			<h6>ASSOCIATED FACULTIES</h6>
+			<table id="associate" class="table">
+				<tbody id="associate_faculty_data">
+				</body>
+			</table>
+		</div>
+	</div>
+    <div id="footer"></div>
+  </body>
+</html>

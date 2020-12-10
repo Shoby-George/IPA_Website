@@ -1,0 +1,110 @@
+[
+  {
+    "no": 1,
+    "name": "Sujo P George",
+    "topic": "Adaptive relaying for Smart Grid Applications",
+    "guide": "Dr. Ashok S"
+  },
+  {
+    "no": 2,
+    "name": "Rohit K Mathew",
+    "topic": "Resiliency Assessment Framework for Electric Power Systems with Microgrids (Thesis Submitted)",
+    "guide": "Dr. Ashok S, Dr. Kumaravel S"
+  },
+  {
+    "no": 3,
+    "name": "Vinu Thomas",
+    "topic": "Frequency Stability Enhancement of Microgrid using Virtual Inertia",
+    "guide": "Dr. Kumaravel S, Dr. Ashok S"
+  },
+  {
+    "no": 4,
+    "name": "Sigi C Joseph",
+    "topic": "Optimal Control Strategies for Low Voltage DC Nanogrid",
+    "guide": "Dr. Ashok S"
+  },
+  {
+    "no": 5,
+    "name": "Joseph P Varghese",
+    "topic": "Automated Transmission Line Congestion Management using Distributed Generation",
+    "guide": "Dr. Ashok S, Dr. Kumaravel S"
+  },
+  {
+    "no": 6,
+    "name": "Grace Sadhana S",
+    "topic": "Power System Stability & Control in High Wind Penetrated Networks",
+    "guide": "Dr. Ashok S, Dr. Kumaravel S"
+  },
+  {
+    "no": 7,
+    "name": "Ravishankar A N",
+    "topic": "Transactive Energy Framework for Microgrid Automation",
+    "guide": "Dr. Ashok S, Dr. Kumaravel S"
+  },
+  {
+    "no": 8,
+    "name": "Megha G Krishnan",
+    "topic": "Image based Visual Servoing of Robot Manipulator for Tracking a Dynamic Object",
+    "guide": "Dr. Ashok S"
+  },
+  {
+    "no": 9,
+    "name": "Janesh M",
+    "topic": "Devlopment of Energy Recovery System from Low Speed Wind",
+    "guide": "Dr. Ashok S, Dr. Kumaravel S"
+  },
+  {
+    "no": 10,
+    "name": "Haritha G",
+    "topic": "Automated Wind Power Integration System using Solid State Transformer",
+    "guide": "Dr. Kumaravel S, Dr. Ashok S"
+  },
+  {
+    "no": 11,
+    "name": "Emmanuel Babu",
+    "topic": "Performance Enhancement of Electric Drive in Hybrid Vehicles",
+    "guide": "Dr. Kumaravel S"
+  },
+  {
+    "no": 12,
+    "name": "Saugato Dey",
+    "topic": "Development of Three Axis Self Stabilizing Platform",
+    "guide": "Dr. Sunilkumar T K, Dr. Ashok S"
+  },
+  {
+    "no": 13,
+    "name": "Gangavarapu Gurukumar",
+    "topic": "Development of Non-isolated DC-DC Converters for Integration of Renewable Energy Sources",
+    "guide": "Dr. Kumaravel S"
+  },
+  {
+    "no": 14,
+    "name": "Muthukumari S",
+    "topic": "Development of Control Strategies in Deregulated Power Systems",
+    "guide": "Dr. Kanagalakshmi, Dr. Sunilkumar T K"
+  },
+  {
+    "no": 15,
+    "name": "Rohikaa Micky R.",
+    "topic": "Dynamic Security Assessment of Microgrids",
+    "guide": "Dr. Sunitha R, Dr. Ashok S"
+  },
+  {
+    "no": 16,
+    "name": "Bheem Raj",
+    "topic": "Development of Dual Active Bridge Converter for Solar PV Application",
+    "guide": "Dr. Karthikeyan, Dr. Kumaravel S"
+  },
+  {
+    "no": 17,
+    "name": "Krishna",
+    "topic": "",
+    "guide": "Dr. Karthikeyan"
+  },
+  {
+    "no": 18,
+    "name": "Shesha Giri",
+    "topic": "",
+    "guide": "Dr. Kumaravel S"
+  }
+]

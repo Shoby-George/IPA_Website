@@ -1,0 +1,86 @@
+[
+  {
+    "year": "2006-2008",
+    "joined": 20,
+    "passed": 19,
+    "dropout": 1,
+    "reason": "Joined in NALCO at beginning of 1st semester."
+  },
+  {
+    "year": "2007-2009",
+    "joined": 20,
+    "passed": 19,
+    "dropout": 1,
+    "reason": "Placed in KSEB as Assistant Engineer at the beginning of 1st semester."
+  },
+  {
+    "year": "2008-2010",
+    "joined": 20,
+    "passed": 20,
+    "dropout": 0,
+    "reason": ""
+  },
+  {
+    "year": "2009-2011",
+    "joined": 20,
+    "passed": 20,
+    "dropout": 0,
+    "reason": ""
+  },
+  {
+    "year": "2010-2012",
+    "joined": 22,
+    "passed": 22,
+    "dropout": 0,
+    "reason": ""
+  },
+  {
+    "year": "2011-2013",
+    "joined": 21,
+    "passed": 20,
+    "dropout": 1,
+    "reason": "Got admission in IIT Kharagpur."
+  },
+  {
+    "year": "2012-2014",
+    "joined": 23,
+    "passed": 23,
+    "dropout": 0,
+    "reason": ""
+  },
+  {
+    "year": "2013-2015",
+    "joined": 21,
+    "passed": 18,
+    "dropout": 3,
+    "reason": "Placed in BSPTCL as Assistant Engineer at the beginning of 1st semester. <br/> Completed the course work and joined in SPIC as Assistant Manager. <br/> Placed in NALCO based on B.Tech. result."
+  },
+  {
+    "year": "2014-2016",
+    "joined": 21,
+    "passed": 20,
+    "dropout": 1,
+    "reason": "Got admission in IIT Madras."
+  },
+  {
+    "year": "2015-2017",
+    "joined": 20,
+    "passed": 19,
+    "dropout": 1,
+    "reason": "Joined in Crompton Grieves at the beginning of 1st semester."
+  },
+  {
+    "year": "2016-2018",
+    "joined": "",
+    "passed": "",
+    "dropout": "",
+    "reason": ""
+  },
+  {
+    "year": "2017-2019",
+    "joined": "",
+    "passed": "",
+    "dropout": "",
+    "reason": ""
+  }
+]

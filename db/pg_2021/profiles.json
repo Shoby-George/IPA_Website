@@ -1,0 +1,178 @@
+[
+  {
+    "name": "A Monica",
+    "roll": "M190490EE",
+    "area": "IoTA, AI",
+    "college": "S. V. University College of Engineering",
+    "project": "Automatic LPG Detection and Alert System",
+    "email": "monica.aelavarthi98@gmail.com"
+  },
+  {
+    "name": "Aditya Kumar",
+    "roll": "M190652EE",
+    "area": "Renewable Energy , Energy Auditing and Managment",
+    "college": "BIT Mesra, Ranchi",
+    "project": "Energy Auditing",
+    "email": "adityaeee5807@gmail.com"
+  },
+  {
+    "name": "Amal N N",
+    "roll": "M190125EE",
+    "area": "Power Electronics, Control System, Electrical Machines, Robotics, SCADA, PLC, Machine Learning",
+    "college": "Government Engineering College Thrissur",
+    "project": "Inductive Power Transfer",
+    "email": "amalnn333@gmail.com"
+  },
+  {
+    "name": "Amal T R",
+    "roll": "M190439EE",
+    "area": "Artificial Intelligence,Internet of Things, Bio-Medical Engineering, Machine Learning",
+    "college": "College of Engineering Chengannur (Electrical And Electronics)",
+    "project": "Solar Powered Multilevel Inverter",
+    "email": "amaltrkmr@gmail.com"
+  },
+  {
+    "name": "Aman Tripathi",
+    "roll": "M190536EE",
+    "area": "Electric Drive, Power Electronic, IoT",
+    "college": "Galgotias College Of Engineering and Technology",
+    "project": "Home Automation",
+    "email": "amantripathi093@gmail.com"
+  },
+  {
+    "name": "Aneeja K J",
+    "roll": "M190746EE",
+    "area": "Artificial Intelligence",
+    "college": "T K M College of Engineering",
+    "project": "Optimal Utilization Of Wind Energy Using MPPT Algorithm",
+    "email": "aneejakj95@gmail.com"
+  },
+  {
+    "name": "Aravind H S",
+    "roll": "M190506EE",
+    "area": "Renewable Energy, Theoretical Physics",
+    "college": "Mohandas College of Engineering",
+    "project": "Wind/Solar Hybrid Generation-Based Roadway Microgrids",
+    "email": "arvdhari117@gmail.com"
+  },
+  {
+    "name": "Aravind S",
+    "roll": "M190453EE",
+    "area": "Automobiles, Robotics",
+    "college": "NSS College of Engineering, Palakkad, Kerala",
+    "project": "Peak Time Heavy Load Limiter",
+    "email": "aravindswaminath@yahoo.in"
+  },
+  {
+    "name": "Athul Vijay M P",
+    "roll": "M190578EE",
+    "area": "IoT, Automation",
+    "college": "LBS College of Engineering, Kasaragod",
+    "project": "Applications Of DcC-DC Converters for PV MPPT Algorithm",
+    "email": "athulvijaymp@gmail.com"
+  },
+  {
+    "name": "Birru Srinivas",
+    "roll": "M190456EE",
+    "area": "Power Electronics, Power Systems",
+    "college": "Aurora's Research and Technological Institute",
+    "project": "Frequency Modelling of Multi Pulse Converter by Double Fourier Series Method",
+    "email": "srinu10212@gmail.com"
+  },
+  {
+    "name": "David Mathew Jones",
+    "roll": "M190588EE",
+    "area": "SCADA, Home Automation, HV Power Equipment Testing, Artificial Intelligence, Embedded Systems",
+    "college": "National Institute of Technology Calicut",
+    "project": "Intelligent Processor Unit for Low Voltage Switchboards",
+    "email": "davidmj_94@hotmail.com"
+  },
+  {
+    "name": "Deepak Sreedharan",
+    "roll": "M190445EE",
+    "area": "Electronic System Design, DC-DC Converters And Electric Drives",
+    "college": "Acharya Institute of Technology, Bangalore",
+    "project": "Harmonic Minimization Using Multilevel Inverters",
+    "email": "deepaksree6@gmail.com"
+  },
+  {
+    "name": "Gottapu Lithesh Kumar",
+    "roll": "M190480EE",
+    "area": "Control Systems",
+    "college": "GVPCE(A)",
+    "project": "Speed Control of Dc Motor Using Mutual Induction Principle",
+    "email": "gottapulithesh@gmail.com"
+  },
+  {
+    "name": "Jyotisana Meena",
+    "roll": "M190533EE",
+    "area": "Energy Auditing and Management",
+    "college": "MBM Engineering College Jodhpur",
+    "project": "Piezoelectric Wind Power Harnessing",
+    "email": "Jyotisanamehar@gmail.com"
+  },
+  {
+    "name": "Karlapudi Saikiran",
+    "roll": "M190296EE",
+    "area": "Electronics",
+    "college": "Electronics And Instrumentation",
+    "project": "Image Extraction",
+    "email": "iamsaikiran444@gmail.com"
+  },
+  {
+    "name": "Keerthana S",
+    "roll": "M190557EE",
+    "area": "Renewable Energy",
+    "college": "RMK Engineering College",
+    "project": "Health Monitoring",
+    "email": "rskeerthana15@gmail.com"
+  },
+  {
+    "name": "Kumari Subrata Bhanu",
+    "roll": "M190635EE",
+    "area": "Artificial Intelligence",
+    "college": "Institute Of Technical Education and Research",
+    "project": "Single Phase Bidirectional Charge",
+    "email": "subratabhanu1806@gmail.com"
+  },
+  {
+    "name": "Paluru Nagamani",
+    "roll": "M190436EE",
+    "area": "Internet of Things",
+    "college": "Annamacharya Institute Of Technology and Sciences",
+    "project": "Electronic Circuit Breaker",
+    "email": "P.nagamani10@gmail.com"
+  },
+  {
+    "name": "Rahul Kumar",
+    "roll": "M190616EE",
+    "area": "Machine Learning and Industrial Automation",
+    "college": "Dr. B C Roy Engineering College, Durgapur",
+    "project": "Modeling, Analysis And Control Of Asynchronous Buck Chopper",
+    "email": "r4rahul142@gmail.com"
+  },
+  {
+    "name": "Reshma Sajeev",
+    "roll": "M190481EE",
+    "area": "Renewable Energy, IoT",
+    "college": "Vswajyothi College of Engineering And Technology",
+    "project": "LVDC Microgrid",
+    "email": "reshmasajeev1411@gmail.com"
+  },
+  {
+    "name": "Sali Tapaswi",
+    "roll": "M190555EE",
+    "area": "Smart Grid",
+    "college": "V R Siddhartha Engineering College",
+    "project": "E-Notice Board Using IoT",
+    "email": "salitapaswi@gmail.com"
+  },
+  {
+    "name": "Shoby George",
+    "roll": "M190511EE",
+    "area": "Robotics & Space Research",
+    "college": "Rajiv Gandhi Institute of Technology, Kottayam",
+    "project": "Automatic Headlight Control of Vehicles",
+    "email": "shobygeorge30@gmail.com"
+  }
+]

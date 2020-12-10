@@ -1,0 +1,150 @@
+m<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="keywords" content="Industrial Power And Automation ( IPA ), previously known as Computer Controlled Industrial Power ( CCIP )" />
+    <meta name="description" content="Upon considering future demand Department of Electrical Engineering at National Institute of Technology, Calicut has started a Master's course on Industrial Power And Automation ( IPA )" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/baguetteBox.min.css" />
+    <link rel="stylesheet" href="css/compact-gallery.css">
+    <link rel="stylesheet" href="css/style.css">
+	
+	<!-- Font Awesome CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+
+    <script src="js/jquery-3.3.1.slim.min.js"></script>
+	<script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom JS -->
+	<script type="text/javascript">
+		$(function(){
+		  $("#content").hide();
+		  $("#header").load("header.html");
+		  $("#menu").load("menu.html", function() {
+				$("#lab").addClass("active");
+				$("#content").show();
+			});
+		  $("#footer").load("footer.html");
+		});
+	</script>
+    <script type="text/javascript" src="js/script.js"></script>
+    
+    <title>DCS Lab</title>
+  </head>
+  <body>
+	<div id="header"></div>
+	<nav id="menu" class="navbar navbar-expand-sm navbar-dark sticky-top" style="background-color: #780000;"></nav>
+	<div id="content">
+		<div class="container p-5">
+            <img src="img/labs/dcs_lab_panaroma.jpg" class="img-fluid mx-auto d-block" alt="DCS Lab">
+            <div class="h4 font-weight-bold text-center p-3">DISTRIBUTED CONTROL SYSTEM LAB</div>
+            <div class="row">
+                <div class="col-md-6"><a href="pdf/201_EQP.pdf" target="_blank" class="btn btn-link btn-block">List of Major Equipments</a></div>
+                <div class="col-md-6"><a href="pdf/201_EXP.pdf" target="_blank" class="btn btn-link btn-block">List of Experiments</a></div>
+            </div>
+            <div class="row">
+                <div class="col-md-6"><a href="pdf/201_RnD.pdf" target="_blank" class="btn btn-link btn-block">Sponsored Projects</a></div>
+                <div class="col-md-6"><a href="pdf/201_MAN.pdf" target="_blank" class="btn btn-link btn-block">Lab Manual</a></div>
+            </div>
+            <br/>
+            <div class="h5">MIMO</div>
+            <div class="row">
+                <div class="col-md-8">
+                    <p class="text-justify">Multiple Input Multiple Output is a setup used for the analysis and study of MIMO operations. Systems with more than one input and/or more than one output are known as Multi-Input Multi-Output systems, or they are frequently known by the abbreviation MIMO. Here we are implementing different control schemes like PI, PID etc. to control the level and temperature of a liquid tank, then we have to analyze the results obtained from each of the schemes.</p>
+                </div>
+                <div class="col-md-4">
+                    <img src="img/labs/mimo.jpg" class="img-fluid mx-auto d-block" alt="MIMO">
+                </div>
+            </div>
+            <br/>
+            <div class="h5">Feedforward Controller</div>
+            <div class="row">
+                <div class="col-md-8">
+                    <p class="text-justify">The feed-forward Controller uses Feed-Forward control strategy. A control system which has only feed-forward behavior responds to its control signal in a pre-defined way without responding to how the load reacts. In a feed-forward system, the control variable adjustment is not error-based. Instead it is based on knowledge about the process in the form of a mathematical model of the process and knowledge about or measurements of the process disturbances. Here also different control strategy like ON/OFF, P, PI, PD, PID are implemented and then results are analyzed.</p>
+                </div>
+                <div class="col-md-4">
+                    <img src="img/labs/feed_forward_control.jpg" class="img-fluid mx-auto d-block" alt="Feedforward Controller">
+                </div>
+            </div>
+            <div class="h5">DCS</div>
+            <div class="h6">Master Controller (DCS - 101-M)</div>
+            <p class="text-justify">The Distributed Control System (DCS) has master units and slave units and these units uses Programmable Logic Controllers (PLCs) for its operation. A Modbus RTU master device (the client) sends query messages to one or more slave devices (the servers) on a serial network. Queries may contain data, requests for data or status, or commands. Each slave on the network has a unique device address. Any query may be addressed to the broadcast address are called broadcast queries.</p>
+            <div class="row">
+                <div class="col-md-4">
+                     <img src="img/labs/DCS_master_1.jpg" class="img-fluid mx-auto d-block" alt="DCS Master">
+                </div>
+                <div class="col-md-4">
+                    <img src="img/labs/DCS_master_2.jpg" class="img-fluid mx-auto d-block" alt="DCS Master">
+                </div>
+                <div class="col-md-4">
+                    <img src="img/labs/DCS_master_3.jpg" class="img-fluid mx-auto d-block" alt="DCS Master">
+                </div>
+            </div>
+            <br/>
+            <div class="h6">Slave-I (DCS - 101-S) / Slave-II (SIMATIC S7-200)</div>
+            <p class="text-justify">A slave that receives a well-formed, non-broadcast query must send a response message to the master. The query/response transaction completes when the master receives a well formed response. Slaves do not respond to broadcast queries. After sending a broadcast query, the master must wait a specified time before completing the transaction and sending the next query. Some broadcast queries contain commands that require the slaves to take specified actions.</p>
+            <div class="row">
+                <div class="col-md-6">
+                    <img src="img/labs/DCS_slave_1.jpg" class="img-fluid mx-auto d-block" alt="DCS Slave">
+                </div>
+                <div class="col-md-6">
+                    <img src="img/labs/DCS_slave_2.jpg" class="img-fluid mx-auto d-block" alt="DCS Slave">
+                </div>
+            </div>
+            <br/>
+            <div class="h5">Pneumatic Stamping System</div>
+            <div class="row">
+                <div class="col-md-8">
+                    <p class="text-justify">The stamping system is used to label or print the materials according to their company names are sealed by using simple program logic.</p>
+                    <p class="text-justify">To sense the posistion of the object, inductive proximity sensors are used.</p>
+                    <p class="text-justify">Sequential operations are performed like material sensing, material shifting, placing the material on the sealing patch, after that stamping process is done. To sense the position of the object, inductive proximity sensors are used and pneumatic cylinders are used for shifting and placing the object.</p>
+                </div>
+                <div class="col-md-4">
+                    <img src="img/labs/pnuematic_stamping.jpg" class="img-fluid mx-auto d-block" alt="Pneumatic Stamping">
+                </div>
+            </div>
+            <br/>
+            <div class="h5">Conveyor Sorting System</div>
+            <div class="row">
+                <div class="col-md-8">
+                    <p class="text-justify">Conveyor sorting system deals with the sorting of materials according to the color of the material in an industrial setup. For each colored materials use seperate boxes for storing.</p>
+                    <p class="text-justify">Conveyor sorting system deals with the sorting of materials according to the color of the material in an industrial setup. For each colored materials use separate boxes for storing. When the proximity sensor sense the material conveyor stopped until the material is pulled to corresponding boxes which is reserved for a particular color by using a single acting AIR cylinder.</p>
+                </div>
+                <div class="col-md-4">
+                    <img src="img/labs/conveyor_sorting.jpg" class="img-fluid mx-auto d-block" alt="Conveyor Sorting">
+                </div>
+            </div>
+            <br/>
+            <div class="h5">Split - Range Controller</div>
+            <div class="row">
+                <div class="col-md-8">
+                    <p class="text-justify">In a split range control loop, output of the controller is split and sent to two or more control valves. The splitter defines how each valve is sequenced as the controller output changes from 0 to 100%. In most split range applications, the controller adjusts the opening of one of the valves when its output is in the range of 0 to 50% and the other valve when its output is in the range of 50% to 100%.</p>
+                </div>
+                <div class="col-md-4">
+                    <img src="img/labs/split_controller.jpg" class="img-fluid mx-auto d-block" alt="Split - Range Controller">
+                </div>
+            </div>
+            <br/>
+            <div class="h5">Cascade Controller</div>
+            <div class="row">
+                <div class="col-md-8">
+                    <p class="text-justify">The best way of using an additional controller to decrease upsets is to use the schemes called cascade control. The output of primary controller is used to adjust the set point of secondary controller, which in turn sends a signal to the final control element control valve. The process output is fed back to the controller, and a signal from intermediate stage of process is fed back to the secondary controller. The main advantage of cascade control is that performance is better for all types of load changes. For disturbances that enter near the beginning of the system, the secondary controller starts corrective action before process output shows any deviation. A general rule is that response of inner loop should be much faster than the response of outer loop.</p>
+                </div>
+                <div class="col-md-4">
+                    <img src="img/labs/casacade_controller.jpg" class="img-fluid mx-auto d-block" alt="Cascade Controller">
+                </div>
+            </div>
+            <br/>
+            
+        </div>
+	</div>
+    <div id="footer"></div>
+  </body>
+</html>

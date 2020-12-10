@@ -1,0 +1,56 @@
+[
+  {
+    "no": 1,
+    "name": "Aditi C",
+    "job": "Module Lead, Continental Automotive Components, Bangalore",
+    "contact": "aditiadityan@gmail.com"
+  },
+  {
+    "no": 2,
+    "name": "Arjun A",
+    "job": "Associate R&D Engineer",
+    "contact": "arjunkalappurakkal@gmail.com"
+  },
+  {
+    "no": 3,
+    "name": "Silpa K S",
+    "job": "Associate R&D Engineer, Robotics and Discrete Automation, ABB",
+    "contact": "kssilpa.ks9@gmail.com"
+  },
+  {
+    "no": 4,
+    "name": "Sourav Rath",
+    "job": "Officer (Project, Operation and Maintenance), Green Gas Ltd.",
+    "contact": "souravrath.eie@gmail.com"
+  },
+  {
+    "no": 5,
+    "name": "Ramigani Lavakumar Reddy",
+    "job": "Junior Telecom Officer",
+    "contact": "lava8222@gmail.com"
+  },
+  {
+    "no": 6,
+    "name": "ANOOP JOHN",
+    "job": "Assistant Engineer, KSEB",
+    "contact": "anoopjohn040@gmail.com"
+  },
+  {
+    "no": 7,
+    "name": "Chaitanya Gajbhiye",
+    "job": "Freelancer in Patent Firm",
+    "contact": "cs.gajbhiye12@gmail.com"
+  },
+  {
+    "no": 8,
+    "name": "Adnan Mohammed Jassim",
+    "job": "SALES AND SERVICE ENGINEER, ARABIAN POWER ELECTRONICS COMPANY, KSA",
+    "contact": "adnan192@gmail.com"
+  },
+  {
+    "no": 9,
+    "name": "GOKUL KRISHNAN K",
+    "job": "JUNIOR ENGINEER, BSNL",
+    "contact": "gokul2260465@gmail.com"
+  }
+]

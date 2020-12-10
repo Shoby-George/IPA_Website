@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="keywords" content="Industrial Power And Automation ( IPA ), previously known as Computer Controlled Industrial Power ( CCIP )" />
+    <meta name="description" content="Upon considering future demand Department of Electrical Engineering at National Institute of Technology, Calicut has started a Master's course on Industrial Power And Automation ( IPA )" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+	
+	<!-- Font Awesome CSS -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.3.1.slim.min.js"></script>
+	<script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom JS -->
+	<script type="text/javascript">
+		$(function(){
+		  $("#content").hide();
+		  $("#header").load("header.html");
+		  $("#menu").load("menu.html", function() {
+				$("#mtech").addClass("active");
+				$("#content").show();
+			});
+		  $("#footer").load("footer.html");
+		  $.getJSON('db/placement.json', function(data) {
+				for (var i = 0; i < data.length; i++) {
+					var row = $("<tr />")
+					$("#data").append(row);
+					row.append($("<td>" + data[i].no + "</td>"));
+					row.append($("<td>" + data[i].year + "</td>"));
+					row.append($("<td>" + data[i].on_campus + "</td>"));
+					row.append($("<td>" + data[i].off_campus + "</td>"));
+                    row.append($("<td>" + data[i].higher_studies + "</td>"));
+				}
+			});
+		});
+	</script>
+    <script type="text/javascript" src="js/script.js"></script>
+    
+    <title>IPA Placement Statistics</title>
+  </head>
+  <body>
+	<div id="header"></div>
+	<nav id="menu" class="navbar navbar-expand-sm navbar-dark sticky-top" style="background-color: #780000;"></nav>
+	<div id="content">
+		<div class="container p-5">
+			<h5>Placement Statistics</h5>
+            <p>Placement for the branch is by both on campus as well as off campus recruitments. Number of students are placed in different multinational and foreign companies in Power &amp; Energy, Process Automation, Manufacturing and IT sectors.</p>
+            <p>Following is the on campus placement record of IPA students in different batches over the years.</p>
+			<table class="table">
+                <thead>
+                  <tr>
+                    <th>Sl. No.</th>
+                    <th>Batch</th>
+                    <th>On Campus (%)</th>
+                    <th>Off Campus (%)</th>
+                    <th>Higher Studies (#)</th>
+                  </tr>
+                </thead>
+				<tbody id="data">
+				</tbody>
+			</table>
+            <h6>Major Recruiters</h6>
+            <ol>
+                <li>ABB</li>
+                <li>Bosch</li>
+                <li>KLA Tencor</li>
+                <li>KPIT</li>
+                <li>General Electric</li>
+                <li>Honeywell</li>
+                <li>L&amp;T</li>
+                <li>Crompton Greaves</li>
+                <li>Kitco</li>
+                <li>Tata Elxsi</li>
+                <li>Entuple Technologies</li>
+                <li>Schneider Electric India Pvt Ltd</li>
+            </ol>
+		</div>
+	</div>
+    <div id="footer"></div>
+  </body>
+</html>
